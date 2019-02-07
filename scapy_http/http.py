@@ -263,3 +263,7 @@ bind_layers(TCP, HTTP, sport=80)
 #For Proxy
 bind_layers(TCP, HTTP, sport=8080)
 bind_layers(TCP, HTTP, dport=8080)
+
+#For Squid
+bind_layers(TCP, HTTP, sport=3128)
+bind_layers(TCP, HTTP, dport=3128)
