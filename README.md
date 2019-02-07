@@ -12,17 +12,10 @@ Hi there, internet stranger! As time is a scarce resource for me nowadays, I'm l
 Installation
 --------
 
-Execute:
-
-```bash
-sudo pip install scapy-http
-```
-
-Or, to install from source
+Install from source
 ```bash
 sudo python setup.py install
 ```
-
 
 Example
 --------
@@ -200,3 +193,4 @@ for p in packets:
 ## Authors
 * Steeve Barbeau  ( http://www.sbarbeau.fr )
 * Luca Invernizzi ( http://lucainvernizzi.net )
+* Vay3t ( http://blog.vay3t.org )
