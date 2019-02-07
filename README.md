@@ -3,6 +3,8 @@ Scapy-http
 
 Support for parsing HTTP in [Scapy](http://www.secdev.org/projects/scapy/). Compatible with [Scapy3k](https://github.com/phaethon/scapy).
 
+edit: This fork support Squid Proxy (https://github.com/vay3t/scapy-http/commit/155a2774d0576a7301d624d9eb40a702fe41f889)
+
 Collaborator wanted!
 --------
 Hi there, internet stranger! As time is a scarce resource for me nowadays, I'm looking for a collaborator to handle issues and pull requests in a more timely manner. If you are interested, send me an email at `invernizzi.l@gmail.com`. 
